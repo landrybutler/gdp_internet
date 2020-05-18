@@ -1,6 +1,4 @@
-README    Template
-
-# name
+# Gross Domestic Product and Internet Usage
 
 ## Contents
 - [Status](#Status)
