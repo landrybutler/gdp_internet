@@ -1,4 +1,32 @@
-#### A guided exploration of UN data (Gross Domestic Product and Internet Usage)
+README    Template
+
+# name
+
+## Contents
+- [Status](#Status)
+- [Description](#Description)
+- [Technologies Used](#Technologies)
+- [Contributors](#Contributors)
+- [Exercises](#Exercises)
+
+
+## Status: Completed
+
+## Description
+This project is a guided exploration of UN data (Gross Domestic Product and Internet Usage). 
+It was one of the first projects that had us dig into dataframes to look for information. In addition to loading CSV files for the initial dataframes, we examined the dataframes, extracted and plotted info using Matplotlib and Seaborn.
+
+### Technologies
+- Python
+- Matplotlib
+- Seaborn
+- Numpy
+
+## Contributors
+- Landry Butler
+
+## Exercises
+#### A guided exploration of UN data (Gross Domestic Product and Internet Usage). 
 
 ##### In-class practice 1  
 
